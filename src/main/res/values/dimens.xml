@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="button_width">48dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="item_padding">16dp</dimen>
+    <dimen name="bottom_padding">10dp</dimen>
+    <dimen name="tbn_width">128dp</dimen>
+    <dimen name="tbn_height">194dp</dimen>
+    <dimen name="tbn_land_width">388dp</dimen>
+    <dimen name="tbn_land_height">256dp</dimen>
+    <dimen name="title_text">16sp</dimen>
+    <dimen name="descr_text">14sp</dimen>
+</resources>
